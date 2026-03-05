@@ -104,6 +104,8 @@ if result:
         output_language = "en"
     elif out_lang == "Español":
         output_language = "es"
+    elif in_lang == "Francés":
+        input_language = "fr"
     elif out_lang == "Bengali":
         output_language = "bn"
     elif out_lang == "Coreano":

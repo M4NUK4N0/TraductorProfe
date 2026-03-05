@@ -85,6 +85,8 @@ if result:
         input_language = "en"
     elif in_lang == "Español":
         input_language = "es"
+    elif in_lang == "Francés":
+        input_language = "fr"
     elif in_lang == "Bengali":
         input_language = "bn"
     elif in_lang == "Coreano":
